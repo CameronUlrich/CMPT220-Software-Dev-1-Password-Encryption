@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Problem5_16 
 {
-
+    // JA: This program misses one factor. For example, factors for 340 are 2,2,5,17
 	public static void main(String[] args) 
 	{
 		Scanner input = new Scanner(System.in);
