@@ -1,17 +1,6 @@
 import java.util.Scanner;
 
-/**
- * Chapter 7 Exercise 4:
- *
- *      (Analyze scores)
- *      Write a program that reads an unspecified number of scores
- *      and determines how many scores are above or equal to the average
- *      and how many scores are below the average. Enter a negative number
- *      to signify the end of the input.
- *      Assume that the maximum number of scores is 100.
- *
- * Created by Luiz Arantes Sa on 8/26/14.
- */
+
 public class Problem7_4 {
 
     static final int MAX = 100;
