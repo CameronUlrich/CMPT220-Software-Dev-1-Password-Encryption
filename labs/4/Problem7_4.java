@@ -36,7 +36,7 @@ public class Problem7_4 {
             total += scores[i];
         }
 
-        return total / numberOfScores;
+        return total / numberOfScores; // JA: This has to be a non-integer division
     }
 
     public static int scoresAboveAndEqualToAverage(int[] scores, int average) {
