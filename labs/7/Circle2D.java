@@ -1,3 +1,4 @@
+// JA: Class MyPoint is not defined
 import javafx.scene.shape.Circle;
 
 
