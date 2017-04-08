@@ -7,6 +7,8 @@ public class Problem12_1 {
             allInOne += arg;
         }
         // Split items from a string
+		// JA: What is this for? There are three operands
+		// JA: Where is MyString1 class defined?
         String[] tokens = MyString1.split(allInOne, "[+-*/]");
 
         // Check number of strings passed
